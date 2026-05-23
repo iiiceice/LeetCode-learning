@@ -4,3 +4,4 @@ solution
 *.out
 *.exe
 .vscode
+.claude
