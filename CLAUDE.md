@@ -19,7 +19,7 @@ LeetCode Hot 100 题解练习，使用 C++。按题目分类组织目录结构�
 
 编译并运行单个题解：
 ```bash
-clang++ -std=c++17 -Wall -g <目录>/solution.cpp -o /tmp/leetcode_out && /tmp/leetcode_out
+g++ -std=c++17 -Wall -g <目录>/solution.cpp -o /tmp/leetcode_out && /tmp/leetcode_out
 ```
 
 无构建系统，每道题独立编译运行。
